@@ -1,0 +1,222 @@
+Ground-->Home Team-->City-->State-->Code
+Melbourne Cricket Ground-->Australia-->Melbourne-->Australia-->YMMB
+Adelaide Oval-->Australia-->Adelaide-->Australia-->YPAD
+Sydney Cricket Ground-->Australia-->Sydney-->Australia-->YSSY
+Brisbane Cricket Ground-->Australia-->Brisbane-->Australia-->YBBN
+Western Australian Cricket Association Ground-->Australia-->Perth-->Australia-->YPPH
+Tasmania Cricket Association Ground-->Australia-->Hobart-->Australia-->YMHB
+North Tasmania Cricket Association Ground-->Australia-->Launceston-->Australia-->YMLT
+Formby Recreation Ground-->Australia-->Devonport-->Australia-->YMLT
+Bellerive Oval-->Australia-->Hobart-->Australia-->YMHB
+Ray Mitchell Oval-->Australia-->Mackay-->Australia-->YBMK
+Eastern Oval-->Australia-->Ballarat-->Australia-->YMAV
+Manuka Oval-->Australia-->Canberra-->Australia-->YSCB
+Berri Oval-->Australia-->Berri-->Australia-->95687
+Lavington Sports Oval-->Australia-->Albury-->Australia-->YMAY
+Docklands Stadium-->Australia-->Melbourne-->Australia-->YMMB
+Bundaberg Rum Stadium-->Australia-->Cairns-->Australia-->YBCS
+Marrara Oval-->Australia-->Darwin-->Australia-->YPDN
+Tony Ireland Stadium-->Australia-->Townsville-->Australia-->YBTL
+MA Aziz Stadium-->Bangladesh-->Chittagong-->Bangladesh-->VGEG
+Bangabandhu National Stadium-->Bangladesh-->Dhaka-->Bangladesh-->VGZR
+Shaheed Chandu Stadium-->Bangladesh-->Bogra-->Bangladesh-->41883
+Chittagong Divisional Stadium-->Bangladesh-->Chittagong-->Bangladesh-->VGEG
+Khulna Divisional Stadium-->Bangladesh-->Khulna-->Bangladesh-->VGJR
+Fatullah Osmani Stadium-->Bangladesh-->Fatullah-->Bangladesh-->VGTJ
+Shere-e-Bangla Stadium-->Bangladesh-->Mirpur-->Bangladesh-->VGZR
+Toronto Cricket-->Canada-->Toronto-->Ontario-->CYKZ
+Maple Leaf North-West Ground-->Canada-->King City-->Ontario-->CYKZ
+Old Trafford Cricket Ground-->England-->Manchester-->United Kingdom-->EGCC
+Lord's Cricket Ground-->England-->London-->United Kingdom-->EGLL
+County Cricket Ground-->England-->Birmingham-->United Kingdom-->EGBB
+Headingley Stadium-->England-->Leeds-->United Kingdom-->EGMC
+The Oval Cricket Ground-->England-->Kennington-->United Kingdom-->EGMD
+Trent Bridge Ground-->England-->Nottingham-->United Kingdom-->EGNX
+North Marine Road Ground-->England-->Scarborough-->United Kingdom-->EGXV
+County Ground-->England-->Taunton-->United England-->EGDY
+Grace Road-->England-->Leicester-->United England-->EGNX
+Nevill Ground-->England-->Tunbridge Wells-->United Kingdom-->EGKB
+The Ford County Ground-->England-->Chelmsford-->United Kingdom-->EGSS
+St Lawrence Ground-->England-->Canterbury-->United Kingdom-->EGMH
+Rose Bowl-->England-->Southampton-->United Kingdom-->EGHI
+Queen's Park (Old)St George's-->West Indies-->Saint George's-->Grenada-->TGPY
+Sardar Vallabhbhai Patel Stadium-->India-->Ahmedabad-->India-->VAAH
+Gandhi Stadium-->India-->Jalandhar-->India-->42671
+Barabati Stadium-->India-->Cuttack-->India-->VEBS
+Gandhi Sports Complex Ground-->India-->Amritsar-->India-->VIAR
+Feroz Shah Kotla Ground-->India-->New Delhi-->India-->VIDD
+M. Chinnaswamy Stadium-->India-->Bangalore-->India-->VOBG
+Lal Bahadur Shastri Stadium-->India-->Hyderabad-->India-->VOHY
+Sawai Mansingh Stadium-->India-->Jaipur-->India-->42522
+Sher-i-Kashmir Stadium-->India-->Srinagar-->India-->VISR
+Moti Bagh Stadium-->India-->Vadodara-->India-->42748
+Nehru Stadium-->India-->Indore-->India-->VAID
+Keenan Stadium-->India-->Jamshedpur-->India-->VEJS
+Jawaharlal Nehru Stadium-->India-->New Delhi-->India-->VIDD
+University Stadium-->India-->Trivandrum-->India-->VOTV
+Sardar Patel Stadium-->India-->Ahmedabad-->India-->VAAH
+Vidarbha Cricket Association Ground-->India-->Nagpur-->India-->VIHR
+Sector 16 Stadium-->India-->Chandigarh-->India-->VABI
+Madhavrao Scindia Cricket Ground-->India-->Rajkot-->India-->VARK
+Modi Stadium-->India-->Kanpur-->India-->OPST
+Wankhede Stadium-->India-->Mumbai-->India-->VABB
+Eden Gardens-->India-->Kolkata-->India-->VECC
+M. A. Chidambaram Stadium-->India-->Chennai-->India-->VOMM
+Nahar Singh Stadium-->India-->Faridabad-->India-->VOHS
+Captain Roop Singh Stadium-->India-->Gwalior-->India-->VIGR
+Indira Priyadarshini Stadium-->India-->Visakhapatnam-->India-->43150
+Brabourne Stadium-->India-->Mumbai-->India-->VABB
+K.D. Singh Babu Stadium-->India-->Lucknow-->India-->VILK
+Moin-ul-Haq Stadium-->India-->Patna-->India-->VEPT
+Punjab Cricket Association Stadium-->India-->Mohali-->India-->42871
+Reliance Stadium-->India-->Vadodara-->India-->42748
+Barkatullah Khan Stadium-->India-->Jodhpur-->India-->42339
+Indira Gandhi Stadium-->India-->Vijayawada-->India-->VOBZ
+Dr YS Rajasekhara Reddy Andhra CA-Visakhapatnam District CA Cricket Stadium-->India-->Visakhapatnam-->India-->43150
+Rajiv Gandhi International Cricket Stadium-->India-->Hyderabad-->India-->VOHY
+Holkar Cricket Stadium-->India-->Indore-->India-->VAID
+Vidarbha Cricket Association Stadium-->India-->Nagpur-->India-->VIHR
+Saurashtra Cricket Association Stadium-->India-->Rajkot-->India-->VARK
+JSCA International Cricket Stadium-->India-->Ranchi-->India-->VERC
+HPCA Stadium-->India-->Dharamsala-->India-->42062
+Subrata Roy Sahara Stadium-->India-->Pune-->India-->VAPO
+Castle Avenue-->Ireland-->Dublin-->Ireland-->EIDW
+Malahide-->Ireland-->Dublin-->Ireland-->EIDW
+Gymkhana Club Ground-->Kenya-->Nairobi-->Kenya-->HKJK
+Nairobi Club Ground-->Kenya-->Nairobi-->Kenya-->HKJK
+Aga Khan Sports Club Ground-->Kenya-->Nairobi-->Kenya-->HKJK
+Simba Union Ground-->Kenya-->Nairobi-->Kenya-->HKJK
+Mombasa Sports Club Ground-->Kenya-->Mombasa-->Kenya-->HKMO
+Jaffery Sports Club Ground-->Kenya-->Nairobi-->Kenya-->HKJK
+Ruaraka Sports Club Ground-->Kenya-->Nairobi-->Kenya-->HKJK
+Kinrara Academy Oval-->Malaysia-->Puchong New Village-->Malaysia-->WMKK
+Bayuemas Oval-->Malaysia-->Kuala Lumpur-->Malaysia-->WMSA
+VRA Cricket Ground-->Netherlands-->Amstelveen-->Netherlands-->EHAM
+Hazelaarweg Stadion-->Netherlands-->Rotterdam-->Netherlands-->EHRD
+Sportpark Westvliet-->Netherlands-->Voorburg-->Netherlands-->EHYB
+Sportpark Thurlede-->Netherlands-->Schiedam-->Netherlands-->EHRD
+Sportpark Duivesteijn-->Netherlands-->Voorburg-->Netherlands-->EHYB
+AMI Stadium-->New Zealand-->Christchurch-->New Zealand-->NZCH
+Carisbrook-->New Zealand-->Dunedin-->New Zealand-->NZDN
+Basin Reserve-->New Zealand-->Wellington-->New Zealand-->NZWN
+Eden Park No. 1-->New Zealand-->Auckland-->New Zealand-->NZWP
+Seddon Park-->New Zealand-->Hamilton-->New Zealand-->93186
+McLean Park-->New Zealand-->Napier-->New Zealand-->93373
+Pukekura Park-->New Zealand-->New Plymouth-->New Zealand-->NZNP
+Owen Delany Park-->New Zealand-->Taupo-->New Zealand-->NZRO
+Westpac Stadium-->New Zealand-->Wellington-->New Zealand-->NZWN
+Queenstown Events Centre-->New Zealand-->Queenstown-->New Zealand-->NZMF
+University Oval-->New Zealand-->Dunedin-->New Zealand-->NZDN
+Cobham Oval-->New Zealand-->Whangarei-->New Zealand-->93023
+Saxton Oval-->New Zealand-->Nelson East-->New Zealand-->NZWB
+Hagley Oval-->New Zealand-->Christchurch-->New Zealand-->NZCH
+Bert Sutcliffe Oval-->New Zealand-->Lincoln-->New Zealand-->NZCH
+Bay Oval-->New Zealand-->Mount Maunganui-->New Zealand-->NZTG
+Jinnah Stadium-->Pakistan-->Sialkot-->Pakistan-->OPST
+Zafar Ali Stadium-->Pakistan-->Sahiwal-->Pakistan-->OPFA
+Gaddafi Stadium-->Pakistan-->Lahore-->Pakistan-->OPLA
+Ayub National Stadium-->Pakistan-->Quetta-->Pakistan-->OPQT
+National Stadium-->Pakistan-->Karachi Cantonment-->Pakistan-->OPKC
+Niaz Stadium-->Pakistan-->Hyderabad Town-->Pakistan-->OPKD
+Ibn-e-Qasim Bagh Stadium-->Pakistan-->Multan-->Pakistan-->OPMT
+Arbab Niaz Stadium-->Pakistan-->Peshawar-->Pakistan-->OPRS
+Iqbal Stadium-->Pakistan-->Faisalabad International-->Pakistan-->OPFA
+Pindi Club Ground-->Pakistan-->Rawalpindi Cantonment-->Pakistan-->OPRN
+Sports Stadium-->Pakistan-->Sargodha-->Pakistan-->OPSR
+Rawalpindi Cricket Stadium-->Pakistan-->Rawalpindi Cantonment-->Pakistan-->OPRN
+Bugti Stadium-->Pakistan-->Quetta-->Pakistan-->OPQT
+Sheikhupura Stadium-->Pakistan-->Sheikupura-->Pakistan-->OPRQ
+Multan Cricket Stadium-->Pakistan-->Multan-->Pakistan-->OPMT
+Grange CC Ground-->Scotland-->Edinburgh-->United Kingdom-->EGPH
+Cambusdoon New Ground-->Scotland-->Ayr-->United Kingdom-->EGPK
+Titwood-->Scotland-->Glasgow-->United Kingdom-->EGPF
+Mannofield Park-->Scotland-->Aberdeen-->Scotland-->EGPD
+The Padang-->Singapore-->Singapore-->Singapore-->WSSS
+Kallang Ground-->Singapore-->Singapore-->Singapore-->WSSS
+Sahara Park Newlands-->South Africa-->Cape Town-->South Africa-->FACT
+Axxess DSL St. Georges-->South Africa-->Port Elizabeth-->South Africa-->FAPE
+SuperSport Park-->South Africa-->Centurion-->South Africa-->FAWK
+New Wanderers Stadium-->South Africa-->Johannesburg-->South Africa-->FAJB
+Goodyear Park-->South Africa-->Bloemfontein-->South Africa-->FABL
+Sahara Stadium-->South Africa-->Durban-->South Africa-->FADN
+Buffalo Park-->South Africa-->East London-->South Africa-->FAEL
+Boland Park-->South Africa-->Paarl-->South Africa-->FACT
+Willowmoore Park-->South Africa-->Benoni-->South Africa-->FAOR
+De Beers Diamond Oval-->South Africa-->Kimberley-->South Africa-->FAKM
+North West Cricket Stadium-->South Africa-->Potchefstroom-->South Africa-->FAPS
+City Oval-->South Africa-->Pietermaritzburg-->South Africa-->FAPM
+Sinhalese Sports Club Ground-->Sri Lanka-->Colombo-->Sri Lanka-->VCBI
+Paikiasothy Saravanamuttu Stadium-->Sri Lanka-->Colombo-->Sri Lanka-->VCBI
+Tyronne Fernando Stadium-->Sri Lanka-->Moratuwa-->Sri Lanka-->VCBI
+Asgiriya Stadium-->Sri Lanka-->Kandy-->Sri Lanka-->VCBI
+Ranasinghe Premadasa Stadium-->Sri Lanka-->Colombo-->Sri Lanka-->VCBI
+Galle International Stadium-->Sri Lanka-->Galle-->Sri Lanka-->43495
+Rangiri Dambulla International Stadium-->Sri Lanka-->Dambulla-->Sri Lanka-->VCCA
+Mahinda Rajapaksa International Stadium-->Sri Lanka-->Hambantota-->Sri Lanka-->VCRI
+Pallekele International Cricket Stadium-->Sri Lanka-->Pallekele-->Sri Lanka-->43444
+Seddon Park, Hamilton-->New Zealand-->Hamilton-->New Zealand-->93186
+Kensington Oval, Bridgetown, Barbados-->West Indies-->Bridgetown-->Barbados-->TBPB
+Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, V-->India-->Visakhapatnam-->India-->43150
+Sophia Gardens, Cardiff-->England-->Cardiff-->United Kingdom-->EGFF
+Bay Oval, Mount Maunganui-->New Zealand-->Mount Maunganui-->New Zealand-->NZTG
+Zahur Ahmed Chowdhury Stadium, Chittagong-->Bangladesh-->Chittagong-->Bangladesh-->VGEG
+Warner Park, Basseterre, St Kitts-->West Indies-->Basseterre-->Saint Kitts and Nevis-->TKPK
+Punjab Cricket Association Stadium, Mohali, Chand-->India-->Mohali-->India-->42871
+Mahinda Rajapaksa International Cricket Stadium,Hambantota-->Sri Lanka-->Hambantota-->Sri Lanka-->VCRI
+Trent Bridge, Nottingham-->England-->Nottingham-->England-->EGNX
+Bellerive Oval, Hobart-->Australia-->Hobart-->Australia-->YMHB
+Lord's, London-->England-->London-->United Kingdom-->EGLL
+Riverside Ground, Chester-le-Street-->England-->Chester-le-Street-->United Kingdom-->EGNT
+Sabina Park, Kingston, Jamaica-->West Indies-->Kingston-->Jamaica-->MKJP
+Edgbaston, Birmingham-->England-->Brimingham-->United Kingdom-->EGBB
+R Premadasa Stadium, Colombo-->Sri Lanka-->Colombo-->Sri Lanka-->VCBI
+St George's Park, Port Elizabeth-->South Africa-->Port Elizabeth-->South Africa-->FAPE
+Captain Roop Singh Stadium, Gwalior-->India-->Gwalior-->India-->VIGR
+Brisbane Cricket Ground, Woolloongabba, Brisbane-->Australia-->Brisbane-->Australia-->YBBN
+McLean Park, Napier-->New Zealand-->Napier-->New Zealand-->93373
+SuperSport Park, Centurion-->South Africa-->Centurion-->South Africa-->FAWK
+Feroz Shah Kotla, Delhi-->India-->Delhi-->India-->VIDD
+New Wanderers Stadium, Johannesburg-->South Africa-->Johannesburg-->South Africa-->FAJB
+The Rose Bowl, Southampton-->England-->Southampton-->United Kingdom-->EGHI
+JSCA International Stadium Complex, Ranchi-->India-->Ranchi-->India-->VERC
+Khan Shaheb Osman Ali Stadium, Fatullah-->Bangladesh-->Fatullah-->Bangladesh-->VGTJ
+Shere Bangla National Stadium, Mirpur-->Bangladesh-->Mirpur-->Bangladesh-->VGZR
+Sir Vivian Richards Stadium, North Sound, Antigua-->West Indies-->Saint John's-->Antigua-->TAPA
+Westpac Stadium, Wellington-->New Zealand-->Wellington-->New Zealand-->NZWN
+Manuka Oval, Canberra-->Australia-->Canberra-->Australia-->YSCB
+Boland Park, Paarl-->South Africa-->Paarl-->South Africa-->FACT
+Queen's Park Oval, Port of Spain, Trinidad-->West Indies-->Port-of-Spain-->Trinidad And Tobago-->TTPP
+Beausejour Stadium, Gros Islet, St Lucia-->West Indies-->Gros Islet-->St. Lucia-->TLPC
+Queens Sports Club, Bulawayo-->Zimbabwe-->Bulawayo-->Zimbabwe-->FVBU
+Sardar Patel Stadium, Motera, Ahmedabad-->India-->Ahmedabad-->India-->VAAH
+OUTsurance Oval, Bloemfontein-->South Africa-->Bloemfontein-->South Africa-->FABL
+Mahinda Rajapaksa International Cricket Stadium-->Sri Lanka-->Hambantota-->Sri Lanka-->VCRI
+Headingley, Leeds-->England-->Leeds-->United Kingdom-->EGMC
+De Beers Diamond Oval, Kimberley-->South Africa-->Kimberley-->South Africa-->FAKM
+Eden Park, Auckland-->New Zealand-->Auckland-->New Zealand-->NZWP
+Hagley Oval, Christchurch-->New Zealand-->Christchurch-->New Zealand-->NZCH
+Windsor Park, Roseau, Dominica-->West Indies-->Marigot-->Dominica-->TDPD
+Saurashtra Cricket Association Stadium, Rajkot-->India-->Rajkot-->India-->VARK
+MA Chidambaram Stadium, Chepauk, Chennai-->India-->Chennai-->India-->VOMM
+Providence Stadium, Guyana-->West Indies-->Georgetown-->Guyana-->SYGO
+Maharashtra Cricket Association Stadium, Pune-->India-->Pune-->India-->VAPO
+Barabati Stadium, Cuttack-->India-->Cuttack-->India-->VEBS
+The Village, Malahide, Dublin-->Ireland-->Dublin-->Ireland-->EIDW
+Old Trafford, Manchester-->England-->Manchester-->United Kingdom-->EGCC
+Saxton Oval, Nelson-->New Zealand-->Nelson-->New Zealand-->NZWB
+Senwes Park, Potchefstroom-->South Africa-->Potchefstroom-->South Africa-->FAPS
+Sheikh Zayed Stadium, Abu Dhabi-->United Arab Emirates-->Abu Dhabi-->United Arab Emirates-->OMAA
+Kingsmead, Durban-->South Africa-->Durban-->South Africa-->FADN
+Kennington Oval, London-->England-->London-->United Kingdom-->EGLL
+National Cricket Stadium, St George's, Grenada-->West Indies-->Saint George's-->Grenada-->TGPY
+Western Australia Cricket Association Ground, Perth-->Australia-->Perth-->Australia-->YPPH
+Arnos Vale Ground, Kingstown, St Vincent-->West Indies-->Kingston-->Saint Vincent-->TVSV
+Newlands, Cape Town-->South Africa-->Cape Town-->South Africa-->FACT
+Eden Gardens, Kolkata-->India-->Kolkata-->India-->VECC
+Harare Sports Club-->Zimbabwe-->Harare-->Zimbabwe-->FVHA
+Western Australia Cricket Association Group-->Australia-->Perth-->Australia-->YPPH
+Sharjah Cricket Stadium-->United Arab Emirates-->Sharjah-->United Arab Emirates-->OMSJ
+Dubai International Cricket Stadium-->United Arab Emirates-->Dubai-->United Arab Emirates-->OMDB
+Willowmoore Park, Benoni-->South Africa-->Benoni-->South Africa-->FAOR
+Nehru Stadium, Guwahati-->India-->Guwahati-->India-->VEGT
+Sharjah Cricket Association Stadium-->United Arab Emirates-->Sharjah-->United Arab Emirates-->OMSJ
